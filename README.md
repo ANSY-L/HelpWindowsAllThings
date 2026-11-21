@@ -13,6 +13,8 @@ Thank you to all the people who already contributed to ANSY-L!
   <img src="https://contrib.rocks/image?repo=ANSY-L/HelpWindowsAllThings&columns=20&max=500" />
 </a>
 
+*Note: Showing the first 500 contributors only due to GitHub image size limitations*
+
 ## License
 <a href="./LICENSE" target="_blank">MIT</a>
 
