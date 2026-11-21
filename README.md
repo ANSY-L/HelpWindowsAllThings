@@ -3,9 +3,10 @@
   <h1>HelpWindowsAllThings</h1>
 </div>
 
-## Contribution
+## Questions
 For questions and support please use [the official forum](https://github.com/ANSY-L/HelpWindowsAllThings/discussions). The issue list of this repo is exclusively for bug reports and feature requests.
 
+## Contribution
 Thank you to all the people who already contributed to ANSY-L!
 
 <a href="https://github.com/ANSY-L/HelpWindowsAllThings/graphs/contributors">
@@ -15,4 +16,4 @@ Thank you to all the people who already contributed to ANSY-L!
 ## License
 <a href="./LICENSE" target="_blank">MIT</a>
 
-Copyright (c) 2026, ANSY-L
+*Copyright (c) 2026, ANSY-L*
