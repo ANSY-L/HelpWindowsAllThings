@@ -4,6 +4,7 @@
 </div>
 
 ## Contribution
+For questions and support please use [the official forum](https://github.com/ANSY-L/HelpWindowsAllThings/discussions). The issue list of this repo is exclusively for bug reports and feature requests.
 
 Thank you to all the people who already contributed to ANSY-L!
 
