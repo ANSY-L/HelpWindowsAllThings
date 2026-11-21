@@ -7,6 +7,4 @@
 
 Thank you to all the people who already contributed to ANSY-L!
 
-<a href="https://github.com/ANSY-L/HelpWindowsAllThings/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ANSY-L/HelpWindowsAllThings" />
-</a>
+<a href="https://github.com/vuejs/core/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890&limit=500" /></a>
