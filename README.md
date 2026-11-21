@@ -2,6 +2,21 @@
   <img src="./PNG/HelpWindowsAllThings.png" width="250" alt="HelpWindowsAllThings Logo">
   <h1>HelpWindowsAllThings</h1>
   <p><b>A comprehensive toolkit for resolving a wide range of Windows issues</b></p>
+  <!--start-->
+  <p>
+    <a href="./LICENSE">
+      <img src="https://img.shields.io/github/license/ANSY-L/HelpWindowsAllThings?color=blue" alt="License">
+    </a>
+    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows" alt="Platform">
+    <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c" alt="Language">
+    <a href="https://github.com/ANSY-L/HelpWindowsAllThings/issues">
+      <img src="https://img.shields.io/github/issues/ANSY-L/HelpWindowsAllThings" alt="Issues">
+    </a>
+    <a href="https://github.com/ANSY-L/HelpWindowsAllThings/stargazers">
+      <img src="https://img.shields.io/github/stars/ANSY-L/HelpWindowsAllThings" alt="Stars">
+    </a>
+  </p>
+  <!--stop-->
 </div>
 
 ## Questions
