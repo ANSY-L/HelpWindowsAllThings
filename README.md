@@ -22,6 +22,9 @@
 ## Questions
 For questions and support please use [the official forum](https://github.com/ANSY-L/HelpWindowsAllThings/discussions). The issue list of this repo is exclusively for bug reports and feature requests.
 
+## About Us
+ANSY-L is a non-profit organization that helps Windows users worldwide resolve various issues.
+
 ## Join Us
 If you would also like to become one of us, please contact: [lettice-jimmy@outlook.com](mailto:lettice-jimmy@outlook.com).  
 Requirement: Proficient in C ~~and Python~~ development.
