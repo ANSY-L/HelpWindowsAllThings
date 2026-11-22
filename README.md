@@ -27,7 +27,7 @@ ANSY-L is a non-profit organization that helps Windows users worldwide resolve v
 
 ## Join Us
 If you would also like to become one of us, please contact: [lettice-jimmy@outlook.com](mailto:lettice-jimmy@outlook.com).  
-Requirement: Proficient in C ~~and Python~~ development.
+Requirement: Proficient in C ~~, Java and Python~~ development.
 
 
 ## Contribution
